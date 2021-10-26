@@ -1,0 +1,11 @@
+C:\Users\Amy Krizan\source\repos\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\Amy Krizan\source\repos\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\Amy Krizan\source\repos\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\Dapper.Contrib.dll
+C:\Users\Amy Krizan\source\repos\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\Dapper.dll
+C:\Users\Amy Krizan\source\repos\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\Dapper.xml
+C:\Users\Amy Krizan\source\repos\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\Dapper.Contrib.xml
+C:\Users\Amy Krizan\source\repos\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\DataLibrary.csproj.AssemblyReference.cache
+C:\Users\Amy Krizan\source\repos\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Amy Krizan\source\repos\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\Users\Amy Krizan\source\repos\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\Amy Krizan\source\repos\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\DataLibrary.pdb

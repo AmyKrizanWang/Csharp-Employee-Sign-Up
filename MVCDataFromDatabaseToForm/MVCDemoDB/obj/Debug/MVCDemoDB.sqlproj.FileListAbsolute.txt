@@ -1,0 +1,9 @@
+C:\Users\Amy Krizan\source\repos\MVCDataFromDatabaseToForm\MVCDemoDB\bin\Debug\MVCDemoDB.dacpac
+C:\Users\Amy Krizan\source\repos\MVCDataFromDatabaseToForm\MVCDemoDB\bin\Debug\MVCDemoDB.dll
+C:\Users\Amy Krizan\source\repos\MVCDataFromDatabaseToForm\MVCDemoDB\bin\Debug\MVCDemoDB.pdb
+C:\Users\Amy Krizan\source\repos\MVCDataFromDatabaseToForm\MVCDemoDB\obj\Debug\Model.xml
+C:\Users\Amy Krizan\source\repos\MVCDataFromDatabaseToForm\MVCDemoDB\obj\Debug\refactor.xml
+C:\Users\Amy Krizan\source\repos\MVCDataFromDatabaseToForm\MVCDemoDB\obj\Debug\postdeploy.sql
+C:\Users\Amy Krizan\source\repos\MVCDataFromDatabaseToForm\MVCDemoDB\obj\Debug\predeploy.sql
+C:\Users\Amy Krizan\source\repos\MVCDataFromDatabaseToForm\MVCDemoDB\obj\Debug\MVCDemoDB.dll
+C:\Users\Amy Krizan\source\repos\MVCDataFromDatabaseToForm\MVCDemoDB\obj\Debug\MVCDemoDB.pdb
