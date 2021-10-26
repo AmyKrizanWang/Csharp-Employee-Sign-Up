@@ -7,3 +7,4 @@ C:\Users\Amy Krizan\source\repos\MVCDataFromDatabaseToForm\MVCDemoDB\obj\Debug\p
 C:\Users\Amy Krizan\source\repos\MVCDataFromDatabaseToForm\MVCDemoDB\obj\Debug\predeploy.sql
 C:\Users\Amy Krizan\source\repos\MVCDataFromDatabaseToForm\MVCDemoDB\obj\Debug\MVCDemoDB.dll
 C:\Users\Amy Krizan\source\repos\MVCDataFromDatabaseToForm\MVCDemoDB\obj\Debug\MVCDemoDB.pdb
+C:\Users\Amy Krizan\source\repos\MVCDataFromDatabaseToForm\MVCDemoDB\obj\Debug\MVCDemoDB.sqlproj.AssemblyReference.cache
